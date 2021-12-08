@@ -21,18 +21,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: ota@rcnp.osaka-u.ac.jp
-phone: 06-6879-8855
+phone: 81 6 6879 8855
 address:
-  street: 美穂が丘 10-1
-  city: 茨木市
-  region: 大阪府
+  street: 10-1 Mihogaoka
+  city: Ibaraki
+  region: Osaka
   postcode: '567-0047'
-  country: 日本
+  country: Japan
   country_code: JP
 coordinates:
   latitude: '34.82601104751181'
   longitude: '135.5280554189618'
-directions: AVF棟３階
+directions: Enter AVF Building and take the stairs to Office 2 on Floor 3
 office_hours:
   - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -70,7 +70,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: ja-jp
+address_format: en-us
 
 # Site features
 
