@@ -1,0 +1,2 @@
+en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+ja-jp = {order = ['postcode', 'region', 'city' 'street'], delimiters = [' ', ' ', ' ', '']}
